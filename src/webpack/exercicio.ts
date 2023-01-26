@@ -1,0 +1,1 @@
+import '../Exercicios/video.ts';
