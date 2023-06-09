@@ -1,0 +1,7 @@
+{
+  "vm": {
+    "id": "running",
+    "installLocation": "C:\\Program Files\\Java\\jdk-18.0.1.1",
+    "type": "org.jboss.tools.rsp.eclipse.jdt.launching.StandardVMType"
+  }
+}
